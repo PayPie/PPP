@@ -6,7 +6,7 @@
 
 ### What is this repository for? 
 
-* PyaPie ICO contracts
+* PayPie ICO contracts
 * ver 1.0
 * for crowd funding during the pre and ICO phase
 
